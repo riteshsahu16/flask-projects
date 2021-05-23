@@ -1,6 +1,6 @@
 # Flask Projects 
 ## Instructions
-<hr>
+
 
 1. Install python
 
