@@ -4,20 +4,28 @@
 1. Install python
 
 2. Set up virtual environment
-    on Windows: 
-    * python -m venv venv 
+    <br>
+    on Windows:
+    <br>
+    ` python -m venv venv ` 
 
 3. Activate virtual environment
+    <br>
     on windows 
-    * venv\Scripts\Activate.ps1 (powershell)
-    * venv\Scripts\activate.bat (cmd)
+    <br>
+    ` venv\Scripts\Activate.ps1 ` (powershell)
+    <br>
+    ` venv\Scripts\activate.bat ` (cmd)
+    <br>
     *color change : venv
 
 4. install flask 
-    *pip install flask
+    <br>
+    ` pip install flask `
 
-5. Run python 
-        * ` app.py or flask run `
+5. Run python
+    <br> 
+         ` app.py or flask run `
         
 * *If name is different then
         <br>
