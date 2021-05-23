@@ -25,7 +25,7 @@
 
 5. Run python
     <br> 
-         ` app.py or flask run `
+         ` python app.py or flask run `
         
 * *If name is different then
         <br>
